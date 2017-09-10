@@ -1,0 +1,94 @@
+@font-face {
+  font-family: "myfont";
+  src: url("../fonts/myfont.eot");
+  src: url("../fonts/myfont.eot?#iefix") format("eot"), url("../fonts/myfont.woff") format("woff"), url("../fonts/myfont.ttf") format("truetype"), url("../fonts/myfont.svg#myfont") format("svg"); }
+
+.icon-designer:before,
+.icon-facebook:before,
+.icon-finger:before,
+.icon-folder:before,
+.icon-instagram:before,
+.icon-iso:before,
+.icon-letter:before,
+.icon-pig:before,
+.icon-pyramid:before,
+.icon-skype:before,
+.icon-square:before,
+.icon-truck:before,
+.icon-uparr:before,
+.icon-vkontakte:before,
+.icon-watch:before,
+.last_selector:before {
+  font-family: "myfont";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  text-decoration: none;
+  text-transform: none; }
+
+.icons_before_after:before, .icons_before_after:after {
+  font-family: "myfont";
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.icons_after:after {
+  font-family: "myfont";
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.icon-designer:before {
+  content: '\E001'; }
+
+.icon-facebook:before {
+  content: '\E002'; }
+
+.icon-finger:before {
+  content: '\E003'; }
+
+.icon-folder:before {
+  content: '\E004'; }
+
+.icon-instagram:before {
+  content: '\E005'; }
+
+.icon-iso:before {
+  content: '\E006'; }
+
+.icon-letter:before {
+  content: '\E007'; }
+
+.icon-pig:before {
+  content: '\E008'; }
+
+.icon-pyramid:before {
+  content: '\E009'; }
+
+.icon-skype:before {
+  content: '\E00A'; }
+
+.icon-square:before {
+  content: '\E00B'; }
+
+.icon-truck:before {
+  content: '\E00C'; }
+
+.icon-uparr:before {
+  content: '\E00D'; }
+
+.icon-vkontakte:before {
+  content: '\E00E'; }
+
+.icon-watch:before {
+  content: '\E00F'; }
